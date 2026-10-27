@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kirby Avila
 
-<!--
-**kirbypaola/kirbypaola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **SOC Analyst / IT Support Specialist** building hands-on skills in a home lab, with a goal of supporting government and DoD missions.
 
-Here are some ideas to get you started:
+## Certifications
+- CompTIA Security+ (exam scheduled Oct 31, 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Home lab projects
+| Project | What it shows | Status |
+| --- | --- | --- |
+| Home lab foundation | Proxmox, pfSense firewall, network segmentation | In progress |
+| Active Directory + help desk | AD DS, Group Policy, PowerShell, ticketing | Planned |
+| SIEM and log analysis | Wazuh, Sysmon, MITRE ATT&CK detections | Planned |
+| Vulnerability management | Nessus, OpenVAS, remediation, POA&M | Planned |
+| STIG and NIST hardening | DISA STIGs, SCAP, NIST 800-53 | Planned |
+| Incident response capstone | NIST 800-61, IR report, IOC analysis | Planned |
+
+## Skills I'm building
+Windows Server, Active Directory, Linux, networking, Proxmox, SIEM, vulnerability scanning, security compliance
+
+## Contact
+avila.k0619@gmail.com
