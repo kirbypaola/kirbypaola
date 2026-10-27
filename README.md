@@ -1,6 +1,9 @@
 # Hi, I'm Kirby Avila
 
-Aspiring **SOC Analyst / IT Support Specialist** building hands-on skills in a home lab, with a goal of supporting government and DoD missions.
+Cybersecurity student and aspiring **SOC Analyst / IT Support Specialist** building hands-on skills in a home lab, with a goal of supporting government and DoD missions.
+
+## Education
+- B.S. Cybersecurity, Southern New Hampshire University (expected Dec 2028)
 
 ## Certifications
 - CompTIA Security+ (exam scheduled Oct 31, 2026)
@@ -19,4 +22,5 @@ Aspiring **SOC Analyst / IT Support Specialist** building hands-on skills in a h
 Windows Server, Active Directory, Linux, networking, Proxmox, SIEM, vulnerability scanning, security compliance
 
 ## Contact
-avila.k0619@gmail.com
+- LinkedIn: [linkedin.com/in/kirby-a-5226b4a3](https://www.linkedin.com/in/kirby-a-5226b4a3/)
+- Email: avila.k0619@gmail.com
