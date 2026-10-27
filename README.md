@@ -22,5 +22,6 @@ Cybersecurity student and aspiring **SOC Analyst / IT Support Specialist** build
 Windows Server, Active Directory, Linux, networking, Proxmox, SIEM, vulnerability scanning, security compliance
 
 ## Contact
-- LinkedIn: [linkedin.com/in/kirby-a-5226b4a3](https://www.linkedin.com/in/kirby-a-5226b4a3/)
+- LinkedIn: [linkedin.com/in/kirby-p-avila](https://www.linkedin.com/in/kirby-p-avila)
 - Email: avila.k0619@gmail.com
+
